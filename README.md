@@ -5,7 +5,8 @@ OpenXR resources
 
 | Name  | Link|
 | ------------- | ------------- |
-|Official site |https://www.khronos.org/openxr/|
+| Official site |https://www.khronos.org/openxr/|
+| OpenXR Doc (Spec) | https://github.com/KhronosGroup/OpenXR-Docs|
 | OpenXR Loader  |  https://github.com/KhronosGroup/OpenXR-SDK-Source  |
 | OpenXR Loader(with generated files)  |  https://github.com/KhronosGroup/OpenXR-SDK/ |
 | OOpenXR CTS | https://github.com/KhronosGroup/OpenXR-CTS| 
@@ -35,3 +36,4 @@ OpenXR resources
 | ------------- | ------------- |
 |Unity OpenXR Plugin| https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.0/manual/index.html |
 |Unreal OpenXR Plugin |https://github.com/EpicGames/UnrealEngine/tree/release/Engine/Plugins/Runtime/OpenXR|
+|GoDot OpenXR | https://github.com/GodotVR/godot_openxr| 
