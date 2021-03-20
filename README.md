@@ -23,8 +23,15 @@ OpenXR resources
 |MS OpenXR Samples |https://github.com/microsoft/OpenXR-MixedReality|
 |MS Unreal OpenXR plugin |https://github.com/microsoft/Microsoft-OpenXR-Unreal|
 
+## Oculus
+| Name  | Link|
+| ------------- | ------------- |
+| Oculus OpenXR Mobile SDK|https://developer.oculus.com/downloads/package/oculus-openxr-mobile-sdk/|
+
+
 ## Game Engine
 
 | Name  | Link|
 | ------------- | ------------- |
 |Unity OpenXR Plugin| https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.0/manual/index.html |
+
