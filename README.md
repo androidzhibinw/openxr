@@ -21,6 +21,7 @@ OpenXR resources
 | Name  | Link|
 | ------------- | ------------- |
 |MS OpenXR Samples |https://github.com/microsoft/OpenXR-MixedReality|
+|MS Unreal OpenXR plugin |https://github.com/microsoft/Microsoft-OpenXR-Unreal|
 
 ## Game Engine
 
